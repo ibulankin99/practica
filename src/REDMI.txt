@@ -1,0 +1,4 @@
+cd ../ пока не останется только C:
+D:
+cd /project/practica
+npm start
